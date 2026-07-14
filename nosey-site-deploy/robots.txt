@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nosey.pet/sitemap.xml
